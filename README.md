@@ -2,7 +2,9 @@
 
 # Series
 **The Mentalist**
+
 Created by: *Bruno Heller*
+
 Starring:
 1. Simon Baker
 2. Robin Tunney
@@ -13,6 +15,7 @@ Starring:
 7. Emily Swallow
 8. Joe Adler
 9. Josie Loren
+
 Compose by:
 - Blake Neely
 **Premise**
