@@ -1,3 +1,5 @@
+*app-dev
+My first repository
 ![TheMentalist](https://github.com/user-attachments/assets/51db0713-4437-4c72-bd3c-930fac8062f4)
 
 # Series
